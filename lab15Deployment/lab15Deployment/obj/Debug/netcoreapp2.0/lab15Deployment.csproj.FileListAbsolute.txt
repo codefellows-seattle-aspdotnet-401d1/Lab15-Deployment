@@ -1,0 +1,11 @@
+C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment\bin\Debug\netcoreapp2.0\lab15Deployment.deps.json
+C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment\bin\Debug\netcoreapp2.0\lab15Deployment.runtimeconfig.json
+C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment\bin\Debug\netcoreapp2.0\lab15Deployment.runtimeconfig.dev.json
+C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment\bin\Debug\netcoreapp2.0\lab15Deployment.dll
+C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment\obj\Debug\netcoreapp2.0\lab15Deployment.csprojResolveAssemblyReference.cache
+C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment\obj\Debug\netcoreapp2.0\lab15Deployment.csproj.CoreCompileInputs.cache
+C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment\obj\Debug\netcoreapp2.0\lab15Deployment.AssemblyInfoInputs.cache
+C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment\obj\Debug\netcoreapp2.0\lab15Deployment.AssemblyInfo.cs
+C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment\bin\Debug\netcoreapp2.0\lab15Deployment.pdb
+C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment\obj\Debug\netcoreapp2.0\lab15Deployment.dll
+C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment\obj\Debug\netcoreapp2.0\lab15Deployment.pdb
