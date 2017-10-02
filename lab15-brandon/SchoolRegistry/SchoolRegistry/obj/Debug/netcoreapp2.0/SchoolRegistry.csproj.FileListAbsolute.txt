@@ -6,3 +6,6 @@ C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon\SchoolRegistry\School
 C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon\SchoolRegistry\SchoolRegistry\obj\Debug\netcoreapp2.0\SchoolRegistry.csproj.CoreCompileInputs.cache
 C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon\SchoolRegistry\SchoolRegistry\obj\Debug\netcoreapp2.0\SchoolRegistry.AssemblyInfoInputs.cache
 C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon\SchoolRegistry\SchoolRegistry\obj\Debug\netcoreapp2.0\SchoolRegistry.AssemblyInfo.cs
+C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon\SchoolRegistry\SchoolRegistry\bin\Debug\netcoreapp2.0\SchoolRegistry.pdb
+C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon\SchoolRegistry\SchoolRegistry\obj\Debug\netcoreapp2.0\SchoolRegistry.dll
+C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon\SchoolRegistry\SchoolRegistry\obj\Debug\netcoreapp2.0\SchoolRegistry.pdb
