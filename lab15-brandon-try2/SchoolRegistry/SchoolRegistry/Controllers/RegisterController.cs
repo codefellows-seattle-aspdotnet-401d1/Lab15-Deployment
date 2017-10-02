@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using SchoolRegistry.Models;
+using SchoolRegistry.ViewModels;
 
 namespace SchoolRegistry.Controllers
 {
@@ -19,9 +20,32 @@ namespace SchoolRegistry.Controllers
         }
 
         // GET: Register
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string studentsCourse, string searchString)
         {
-            return View(await _context.Student.ToListAsync());
+            IQueryable<string> courseQuery = from s in _context.Student
+                                       orderby s.Course
+                                       select s.Course;
+
+            var students = from s in _context.Student
+                           select s;
+
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                students = students.Where(s => s.Name.Contains(searchString));
+            }
+
+            if (!String.IsNullOrEmpty(studentsCourse))
+            {
+                students = students.Where(s => s.Course == studentsCourse);
+            }
+
+            var studentsCourseVm = new StudentCourseViewModel
+            {
+                Courses = new SelectList(await courseQuery.Distinct().ToListAsync()),
+                Students = await students.ToListAsync()
+            };
+
+            return View(studentsCourseVm);
         }
 
         // GET: Register/Details/5
