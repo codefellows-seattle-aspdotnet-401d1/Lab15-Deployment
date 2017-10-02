@@ -8,3 +8,4 @@ C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon-try2\SchoolRegistry\S
 C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon-try2\SchoolRegistry\SchoolRegistry\bin\Debug\netcoreapp2.0\SchoolRegistry.pdb
 C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon-try2\SchoolRegistry\SchoolRegistry\obj\Debug\netcoreapp2.0\SchoolRegistry.dll
 C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon-try2\SchoolRegistry\SchoolRegistry\obj\Debug\netcoreapp2.0\SchoolRegistry.pdb
+C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon-try2\SchoolRegistry\SchoolRegistry\obj\Debug\netcoreapp2.0\SchoolRegistry.csprojResolveAssemblyReference.cache
