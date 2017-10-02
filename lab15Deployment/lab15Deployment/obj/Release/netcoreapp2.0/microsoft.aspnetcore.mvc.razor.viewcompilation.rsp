@@ -1,0 +1,13 @@
+C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=lab15Deployment
+--content-root=C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment
+--file=C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment\Views\Home\Index.cshtml
+--file=C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment\Views\Shared\_Layout.cshtml
+--file=C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment\Views\Students\Create.cshtml
+--file=C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment\Views\Students\Delete.cshtml
+--file=C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment\Views\Students\Details.cshtml
+--file=C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment\Views\Students\Edit.cshtml
+--file=C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment\Views\Students\Index.cshtml
+--file=C:\Users\admin\codefellows\401\lab15Deployment\lab15Deployment\lab15Deployment\Views\_ViewImports.cshtml
