@@ -3,15 +3,18 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
+using Microsoft.EntityFrameworkCore.Storage;
+using Microsoft.EntityFrameworkCore.Storage.Internal;
 using SchoolRegistry.Models;
 using System;
 
 namespace SchoolRegistry.Migrations
 {
     [DbContext(typeof(SchoolRegistryContext))]
-    partial class SchoolRegistryContextModelSnapshot : ModelSnapshot
+    [Migration("20171002193318_BirthdayFix")]
+    partial class BirthdayFix
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

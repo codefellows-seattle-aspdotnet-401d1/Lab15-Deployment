@@ -15,7 +15,7 @@ namespace SchoolRegistry.Models
 
         [DataType(DataType.Date)]
         [Required]
-        public DateTime MyProperty { get; set; }
+        public DateTime Birthday { get; set; }
 
         public int Age { get; set; }
 

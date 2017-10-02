@@ -3,15 +3,18 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
+using Microsoft.EntityFrameworkCore.Storage;
+using Microsoft.EntityFrameworkCore.Storage.Internal;
 using SchoolRegistry.Models;
 using System;
 
 namespace SchoolRegistry.Migrations
 {
     [DbContext(typeof(SchoolRegistryContext))]
-    partial class SchoolRegistryContextModelSnapshot : ModelSnapshot
+    [Migration("20171002192714_NameFix")]
+    partial class NameFix
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -25,7 +28,7 @@ namespace SchoolRegistry.Migrations
 
                     b.Property<int>("Age");
 
-                    b.Property<DateTime>("Birthday");
+                    b.Property<DateTime>("Brithday");
 
                     b.Property<string>("Course")
                         .IsRequired();
