@@ -77,7 +77,7 @@ namespace SchoolRegistry.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ID,Name,Course,MyProperty,Age,OperatingSystem,Patronus")] Student student)
+        public async Task<IActionResult> Create([Bind("ID,Name,Course,Birthday,Age,OperatingSystem,Patronus")] Student student)
         {
             if (ModelState.IsValid)
             {
@@ -109,7 +109,7 @@ namespace SchoolRegistry.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("ID,Name,Course,MyProperty,Age,OperatingSystem,Patronus")] Student student)
+        public async Task<IActionResult> Edit(int id, [Bind("ID,Name,Course,Birthday,Age,OperatingSystem,Patronus")] Student student)
         {
             if (id != student.ID)
             {
