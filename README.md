@@ -1,32 +1,7 @@
 ![cf](http://i.imgur.com/7v5ASc8.png) Lab 15 : Azure Deployment
 =====================================
+- This took me 4 hours.
+- I struggled with connecting to my SQL database in Azure. The code review helped a lot.
+- I learned how use layouts/partials and how to connect to my Azure database through the connection string in appsettings.json.
+- I utilized the class demo, my previous labs, and the Microsoft docs.
 
-## To Submit this Assignment
-- fork this repository
-- write all of your code in a directory named `lab-#`; + `<your name>` **e.g.** `lab15-amanda`
-- push to your repository
-- submit a pull request to this repository
-- submit a link to your PR in canvas
-
-## Directions
-- Add a Layout and partials to your site
-- add a selectList and sort your studetns by the classes they are taking
-- Add a SQL server database in Azure
-- Connect your Azure Database to your applicaiton through the appsettings.json file Connection String (don't forget to .gitignore!)
-- Publish your site, and it's changes to Azure
-- **Turn in** your the URL to your Azure deployment. 
-
-
-## ReadMe
-- Your readme should include the following information:
-	- How long did it take you to complete this assignment?
-	- What did you struggle with? Why? How did you solve?
-	- What did you learn during this assignment?
-    - What resources did you utilize for this assingment?
-
-## Rubric
-- 2pts: Application runs without any errors
-- 2pts: Applicaiton and database succesfully migrated to Azure
-- 2pts: Applicaiton contains at least one layout and partial
-- 2pts: Application contains a SelectList to sort students by classes
-- 2pts: Readme included with answers to questions
