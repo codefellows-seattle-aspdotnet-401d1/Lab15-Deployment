@@ -1,0 +1,34 @@
+﻿body {
+    width: 960px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.create {
+    width: 150px;
+    height: 25px;
+    background-color: #2fc60b;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+    padding-top: 7px;
+}
+.create a {
+    text-decoration: none;
+    color: black;
+    font-size: 1em;
+    font-family: Arial;
+}
+
+.create:hover {
+    background-color: #2ea5d9;
+    color: #e80606;
+}
+.table{
+    background-color: #84bcf8;
+    border:2px dashed black;
+}
+h2 {
+    font-family: 'Copperplate Gothic';
+    font-size: 3em;
+}

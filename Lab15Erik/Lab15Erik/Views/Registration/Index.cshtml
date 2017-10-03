@@ -1,0 +1,63 @@
+﻿@model Lab15Erik.ViewModel.CourseViewModel
+@*@model IEnumerable<Lab15Erik.Model.Student>*@
+@{  
+    Layout = null;
+    ViewData["Title"] = "Index";
+}
+<head>
+    <link href="~/Reset.css" type="text/css" rel="stylesheet" />
+    <link href="~/RegistrationStyle.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body>
+<h2>Registration</h2>
+
+<div class="create">
+    <a  asp-action="Create">Create New</a>
+</div>
+    <form asp-controller="Registration" asp-action="index" method="get">
+        <p>
+            <select asp-for="studentCourse" asp-items="Model.courses">
+                <option value="">ALL</option>
+            </select>
+
+            <input type="submit" value="Filter" />
+        </p>
+    </form>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.students[0].Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.students[0].Age)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.students[0].Course)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.students) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Course)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</body>

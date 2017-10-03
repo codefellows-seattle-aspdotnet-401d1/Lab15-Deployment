@@ -1,0 +1,55 @@
+﻿
+.nav li {
+    display: inline-block;
+    width: 150px;
+    height: 25px;
+    background-color: #2fc60b;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+    padding-top: 7px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 1em;
+    font-family: Arial;
+    margin: 0.5em;
+}
+.nav li:hover {
+    background-color: #2ea5d9;
+    color: #e80606;
+}
+
+#hero {
+    width: 50%;
+    border-bottom: 4px solid #2fc60b;
+}
+
+.Home h1 {
+    font-family: 'Copperplate Gothic';
+    font-size: 3em;
+}
+
+body {
+    width: 960px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.Error img {
+    width: 50%;
+}
+
+.Error h1 {
+    font-family: 'Copperplate Gothic';
+    font-size: 3em;
+}
+
+.Error p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2fc60b;
+    font-size: 1.5em;
+    margin-top: 10px;
+}
