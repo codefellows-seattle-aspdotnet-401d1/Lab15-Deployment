@@ -1,0 +1,11 @@
+c:\users\duane rush\source\repos\Lab15Deployment\Lab15Deployment\bin\Debug\netcoreapp2.0\Lab15Deployment.deps.json
+c:\users\duane rush\source\repos\Lab15Deployment\Lab15Deployment\bin\Debug\netcoreapp2.0\Lab15Deployment.runtimeconfig.json
+c:\users\duane rush\source\repos\Lab15Deployment\Lab15Deployment\bin\Debug\netcoreapp2.0\Lab15Deployment.runtimeconfig.dev.json
+c:\users\duane rush\source\repos\Lab15Deployment\Lab15Deployment\bin\Debug\netcoreapp2.0\Lab15Deployment.dll
+c:\users\duane rush\source\repos\Lab15Deployment\Lab15Deployment\obj\Debug\netcoreapp2.0\Lab15Deployment.csprojResolveAssemblyReference.cache
+c:\users\duane rush\source\repos\Lab15Deployment\Lab15Deployment\obj\Debug\netcoreapp2.0\Lab15Deployment.csproj.CoreCompileInputs.cache
+c:\users\duane rush\source\repos\Lab15Deployment\Lab15Deployment\obj\Debug\netcoreapp2.0\Lab15Deployment.AssemblyInfoInputs.cache
+c:\users\duane rush\source\repos\Lab15Deployment\Lab15Deployment\obj\Debug\netcoreapp2.0\Lab15Deployment.AssemblyInfo.cs
+c:\users\duane rush\source\repos\Lab15Deployment\Lab15Deployment\bin\Debug\netcoreapp2.0\Lab15Deployment.pdb
+c:\users\duane rush\source\repos\Lab15Deployment\Lab15Deployment\obj\Debug\netcoreapp2.0\Lab15Deployment.dll
+c:\users\duane rush\source\repos\Lab15Deployment\Lab15Deployment\obj\Debug\netcoreapp2.0\Lab15Deployment.pdb

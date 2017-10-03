@@ -1,0 +1,14 @@
+C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Lab15Deployment
+--content-root=C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment
+--file=C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\Views\Home\Index.cshtml
+--file=C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\Views\Shared\MyPartial.cshtml
+--file=C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\Views\Shared\_Layout.cshtml
+--file=C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\Views\Students\Create.cshtml
+--file=C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\Views\Students\Delete.cshtml
+--file=C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\Views\Students\Details.cshtml
+--file=C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\Views\Students\Edit.cshtml
+--file=C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\Views\Students\Index.cshtml
+--file=C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\Views\_ViewImports.cshtml
