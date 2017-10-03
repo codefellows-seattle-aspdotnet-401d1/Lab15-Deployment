@@ -1,0 +1,11 @@
+﻿<link rel="stylesheet" href="~/css/App.css" type="text/css" />
+
+<h1>Welcome new students!</h1>
+<section>
+    <input type="submit" value="Register Page" onclick="@("window.location.href='" + @Url.Action("Index", "Students") + "'");" />
+</section>
+
+<p>
+    Greetings to all our new students. By clicking the register page putton above you will
+    be able to enter some information about yourself and become one of our students.
+</p>

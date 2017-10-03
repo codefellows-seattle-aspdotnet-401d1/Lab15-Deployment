@@ -1,0 +1,11 @@
+C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\bin\Release\netcoreapp2.0\Lab15Deployment.deps.json
+C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\bin\Release\netcoreapp2.0\Lab15Deployment.runtimeconfig.json
+C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\bin\Release\netcoreapp2.0\Lab15Deployment.runtimeconfig.dev.json
+C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\bin\Release\netcoreapp2.0\Lab15Deployment.dll
+C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\bin\Release\netcoreapp2.0\Lab15Deployment.pdb
+C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\obj\Release\netcoreapp2.0\Lab15Deployment.csprojResolveAssemblyReference.cache
+C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\obj\Release\netcoreapp2.0\Lab15Deployment.csproj.CoreCompileInputs.cache
+C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\obj\Release\netcoreapp2.0\Lab15Deployment.AssemblyInfoInputs.cache
+C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\obj\Release\netcoreapp2.0\Lab15Deployment.AssemblyInfo.cs
+C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\obj\Release\netcoreapp2.0\Lab15Deployment.dll
+C:\Users\Duane Rush\source\repos\Lab15-Deployment\Lab15Deployment\Lab15Deployment\obj\Release\netcoreapp2.0\Lab15Deployment.pdb
