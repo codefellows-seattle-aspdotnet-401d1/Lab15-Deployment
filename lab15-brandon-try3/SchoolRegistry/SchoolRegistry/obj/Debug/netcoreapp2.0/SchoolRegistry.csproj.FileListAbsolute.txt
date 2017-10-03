@@ -1,0 +1,11 @@
+C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon-try3\SchoolRegistry\SchoolRegistry\bin\Debug\netcoreapp2.0\SchoolRegistry.deps.json
+C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon-try3\SchoolRegistry\SchoolRegistry\bin\Debug\netcoreapp2.0\SchoolRegistry.runtimeconfig.json
+C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon-try3\SchoolRegistry\SchoolRegistry\bin\Debug\netcoreapp2.0\SchoolRegistry.runtimeconfig.dev.json
+C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon-try3\SchoolRegistry\SchoolRegistry\bin\Debug\netcoreapp2.0\SchoolRegistry.dll
+C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon-try3\SchoolRegistry\SchoolRegistry\obj\Debug\netcoreapp2.0\SchoolRegistry.csproj.CoreCompileInputs.cache
+C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon-try3\SchoolRegistry\SchoolRegistry\obj\Debug\netcoreapp2.0\SchoolRegistry.AssemblyInfoInputs.cache
+C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon-try3\SchoolRegistry\SchoolRegistry\obj\Debug\netcoreapp2.0\SchoolRegistry.AssemblyInfo.cs
+C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon-try3\SchoolRegistry\SchoolRegistry\bin\Debug\netcoreapp2.0\SchoolRegistry.pdb
+C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon-try3\SchoolRegistry\SchoolRegistry\obj\Debug\netcoreapp2.0\SchoolRegistry.dll
+C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon-try3\SchoolRegistry\SchoolRegistry\obj\Debug\netcoreapp2.0\SchoolRegistry.pdb
+C:\Users\akure\Source\Repos\Lab15-Deployment\lab15-brandon-try3\SchoolRegistry\SchoolRegistry\obj\Debug\netcoreapp2.0\SchoolRegistry.csprojResolveAssemblyReference.cache
