@@ -1,0 +1,100 @@
+﻿@*@model IEnumerable<Lab15Tom.Models.Register>*@
+
+@model Lab15Tom.ViewModel.ClassEnrolledViewModel
+
+<link rel="stylesheet" href="~/StyleSheet.css" />
+<link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Index";
+}
+<h2>Index</h2>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+
+<form asp-controller="Register" asp-action="Index">
+    <p>
+        Name: <input type="text" name="SearchString" />
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+
+
+<form asp-controller="Register" asp-action="Index" method="get">
+    <p>
+        <select asp-for="classEnrolledin" asp-items="Model.classes">
+            <option value="">ALL</option>
+        </select>
+
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.students[0].Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.students[0].Age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.students[0].Quirk)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.students[0].Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.students[0].Alias)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.students[0].HairColor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.students[0].ClassEnrolled)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.students)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Age)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Quirk)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Gender)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Alias)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HairColor)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ClassEnrolled)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<img id="class" src="http://i0.kym-cdn.com/photos/images/original/001/219/188/21b.jpg" />
+
+<h3><a asp-controller="Home" asp-action="Index">Return to Home</a></h3>
+
+@Html.Partial("Partial")
