@@ -9,3 +9,14 @@ C:\Users\Georg\OneDrive\Documents\GitHub\Lab15George\Lab15George\obj\Debug\netco
 C:\Users\Georg\OneDrive\Documents\GitHub\Lab15George\Lab15George\obj\Debug\netcoreapp2.0\Lab15George.AssemblyInfo.cs
 C:\Users\Georg\OneDrive\Documents\GitHub\Lab15George\Lab15George\obj\Debug\netcoreapp2.0\Lab15George.dll
 C:\Users\Georg\OneDrive\Documents\GitHub\Lab15George\Lab15George\obj\Debug\netcoreapp2.0\Lab15George.pdb
+C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\bin\Debug\netcoreapp2.0\Lab15George.deps.json
+C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\bin\Debug\netcoreapp2.0\Lab15George.runtimeconfig.json
+C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\bin\Debug\netcoreapp2.0\Lab15George.runtimeconfig.dev.json
+C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\bin\Debug\netcoreapp2.0\Lab15George.dll
+C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\bin\Debug\netcoreapp2.0\Lab15George.pdb
+C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\obj\Debug\netcoreapp2.0\Lab15George.csprojResolveAssemblyReference.cache
+C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\obj\Debug\netcoreapp2.0\Lab15George.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\obj\Debug\netcoreapp2.0\Lab15George.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\obj\Debug\netcoreapp2.0\Lab15George.AssemblyInfo.cs
+C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\obj\Debug\netcoreapp2.0\Lab15George.dll
+C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\obj\Debug\netcoreapp2.0\Lab15George.pdb

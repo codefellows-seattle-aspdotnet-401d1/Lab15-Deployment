@@ -12,6 +12,7 @@ namespace Lab15George.Controllers
     public class RegistersController : Controller
     {
         private readonly Lab15GeorgeContext _context;
+        private SelectList courseList = new SelectList( new List<String> {"JavaScript",".Net","Python"});
 
         public RegistersController(Lab15GeorgeContext context)
         {
@@ -45,6 +46,7 @@ namespace Lab15George.Controllers
         // GET: Registers/Create
         public IActionResult Create()
         {
+            ViewBag.CourseList = courseList;
             return View();
         }
 
@@ -77,6 +79,7 @@ namespace Lab15George.Controllers
             {
                 return NotFound();
             }
+            ViewBag.CourseList = courseList;
             return View(register);
         }
 
@@ -112,6 +115,7 @@ namespace Lab15George.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
+            ViewBag.CourseList = courseList;
             return View(register);
         }
 
