@@ -1,0 +1,15 @@
+C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Lab15George
+--content-root=C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George
+--file=C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\Views\Error\Index.cshtml
+--file=C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\Views\Home\Index.cshtml
+--file=C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\Views\Registers\Create.cshtml
+--file=C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\Views\Registers\Delete.cshtml
+--file=C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\Views\Registers\Details.cshtml
+--file=C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\Views\Registers\Edit.cshtml
+--file=C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\Views\Registers\Index.cshtml
+--file=C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\Views\Shared\_Header.cshtml
+--file=C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\Views\Shared\_Layout.cshtml
+--file=C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\georg\OneDrive\Documents\GitHub\Lab15-Deployment\Lab15-Deployment\Lab15George\Lab15George\Views\_ViewImports.cshtml
