@@ -9,14 +9,22 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <title>School Page</title>
-    <link rel="stylesheet" href="~/StyleSheet.css">
     <link href="https://fonts.googleapis.com/css?family=Artifika" rel="stylesheet">
 </head>
 <body>
-    <h1>Welcome to Chef Basil's<br />Pizza School!</h1>
-    <h2>Press the button below to register for a class</h2>
+    <div class="jumbotron">
+    <h1>Welcome to Chef Basil's Pizza School!</h1>
+    </div>
+    <div class="container">
+        <div class="col-lg-4"></div>
+        <div class="col-lg-4">
+        <h2>Press the button below to register for a class</h2>
+        </div>
+        <div class="col-lg-4"></div>
+    </div>
+
     <div class="div">
-        <a class="button" href="/students">Register a New Student</a>
+        <a href="/students" class="btn-primary" >Students</a>
     </div>
 </body>
 </html>

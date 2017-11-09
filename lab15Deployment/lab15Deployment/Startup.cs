@@ -12,7 +12,7 @@ using lab15Deployment.Models;
 
 namespace lab15Deployment
 {
-    public class Startup
+    public class  Startup
     {
         public IConfiguration Configuration { get; }
 
