@@ -8,9 +8,21 @@ header {
     font-size: 43px;
     background-color: #c0392b;
     color: #27ae60;
+    text-align: center;
 }
 
 .footer {
     background-color: black;
     color: lightgray;
+    text-align: center;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+.btn-primary {
+    margin-left: 4%;
+    padding: 10px;
+    border-radius: 5px;
 }
